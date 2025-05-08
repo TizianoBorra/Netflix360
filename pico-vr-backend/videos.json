@@ -1,0 +1,30 @@
+[
+    {
+        "id": "1",
+        "label": "SLIDE in 360° | VR / 4K",
+        "type": "youtube",
+        "youtubeId": "nV_hd6bLXmw",
+        "thumbnail": "https://img.youtube.com/vi/nV_hd6bLXmw/0.jpg"
+    },
+    {
+        "id": "2",
+        "label": "360° FEAR OF HEIGHTS EXTREME | FALLING VR",
+        "type": "youtube",
+        "youtubeId": "tS9854NKZ4I",
+        "thumbnail": "https://img.youtube.com/vi/tS9854NKZ4I/0.jpg"
+    },
+    {
+        "id": "3",
+        "label": "VR Virtual Reality 360°: Monsters from the Deep",
+        "type": "youtube",
+        "youtubeId": "eXsNX_2AzM8",
+        "thumbnail": "https://img.youtube.com/vi/eXsNX_2AzM8/0.jpg"
+    },
+    {
+        "id": "4",
+        "label": "360° VR TITANIC SINKING - Virtual Reality Experience",
+        "type": "youtube",
+        "youtubeId": "Z4QV22VGfGs",
+        "thumbnail": "https://img.youtube.com/vi/Z4QV22VGfGs/0.jpg"
+    }
+]

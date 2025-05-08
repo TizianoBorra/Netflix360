@@ -1,0 +1,19 @@
+
+{
+  "name": "vr-gallery",
+  "version": "1.0.0",
+  "description": "Gallery para Pico VR",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "create-certs": "powershell -File create-certificates.ps1"
+  },
+  "devDependencies": {
+    "vite": "^4.5.0"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "cors": "^2.8.5"
+  }
+}
